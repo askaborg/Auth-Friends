@@ -11,39 +11,39 @@ let nextId = 7;
 let friends = [
   {
     id: 1,
-    name: 'Rachel Green',
-    age: 30,
-    email: 'rachel@friends.com'
+    name: 'Sleepy Smurf',
+    age: 200,
+    email: 'Sleepy@smurfvillage.com'
   },
   {
     id: 2,
-    name: 'Joey Tribbiani',
-    age: 34,
-    email: 'joey@friends.com'
+    name: 'Grouchy Smurf',
+    age: 104,
+    email: 'Grouchy@smurfvillage.com'
   },
   {
     id: 3,
-    name: 'Chandler Bing',
-    age: 32,
-    email: 'chandler@friends.com'
+    name: 'Brainy Smurf',
+    age: 202,
+    email: 'Brainy@smurfvillage.com'
   },
   {
     id: 4,
-    name: 'Ross Geller',
-    age: 32,
-    email: 'ross@friends.com'
+    name: 'Pappa Smurf',
+    age: 502,
+    email: 'Pappa@smurfvillage.com'
   },
   {
     id: 5,
-    name: 'Monica Bing',
-    age: 31,
-    email: 'monica@friends.com'
+    name: 'Clumsy Smurf',
+    age: 201,
+    email: 'Clumsy@smurfvillage.com'
   },
   {
     id: 6,
-    name: 'Phoebe Buffay-Hannigan',
-    age: 30,
-    email: 'phoebe@friends.com'
+    name: 'Smurffet Smurf',
+    age: 100,
+    email: 'smurffet@smurfvillage.com'
   }
 ];
 
